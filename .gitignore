@@ -6,3 +6,5 @@ __pycache__/
 *.tex
 *.npz
 *.tar.gz
+._*
+.DS_Store
