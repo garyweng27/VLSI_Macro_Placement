@@ -1,0 +1,8 @@
+*.pth
+graph_infromation/
+instance_placement_micron/
+__pycache__/
+*.pdf
+*.tex
+*.npz
+*.tar.gz
